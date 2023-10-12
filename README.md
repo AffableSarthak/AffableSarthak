@@ -10,12 +10,12 @@
 * Typescript, Go
 
 ### Technologies
-* Frontend - Nextjs, React, Redux, Tailwind, Material UI, Bootstrap.
-* Backend - Nestjs, Mongodb
+* Frontend - Typescript | React | NextJs | Redux, Zustand | React-query | RxJs | Tailwind | HTML | CSS | MaterialUI | Bootstrap
+* Backend - Nestjs, Mongodb, Echo
 * Mobile - React Native
 
 ### Tools
-* Vim, Macos/Linux/Windows
+* Vim, Macos/Linux/Windows, Docker
 
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/sarth-ak/"  target="_blank">
