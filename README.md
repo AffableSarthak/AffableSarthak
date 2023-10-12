@@ -4,7 +4,7 @@
 - Product management [OnParLabs](https://www.linkedin.com/company/onpar-labs/about/), working on products like [Flaq](https://www.flaq.club/) & [Solace](https://www.solace.money/) 
 - I love playing football and you know I am a team player!
 
-- 🌱 I’m currently learning to work with Data, to get better at Data-driven decision making in a startup setting
+# 🌱 I’m currently learning to work with Data, to get better at Data-driven decision making in a startup setting
 
 ### Languages
 * Typescript, Go
@@ -17,7 +17,7 @@
 ### Tools
 * Vim, Macos/Linux/Windows, Docker
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/sarth-ak/"  target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
