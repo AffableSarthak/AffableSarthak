@@ -3,6 +3,8 @@
 - I love playing football and you know I am a team player!
 - 🌱 I’m currently learning to work with Data, to get better at Data-driven decision making in a startup setting
 
+<br />
+
 ### Languages
 * Typescript, Go
 
@@ -14,7 +16,6 @@
 ### Tools
 * Vim, Macos/Linux/Windows, Docker
 
-<br />
 <br />
 
 #### 📫 How to reach me
