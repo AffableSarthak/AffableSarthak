@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning to work with Data, to get better at Data-driven decision making in a startup setting
 
 ### Languages
-* Typescript, Go
+* Typescript, Go, C#
 
 ### Technologies
 * Frontend - Typescript | React | NextJs | Redux, Zustand | React-query | RxJs | Tailwind | HTML | CSS | MaterialUI | Bootstrap
-* Backend - Nestjs, Mongodb, Echo
+* Backend - Nestjs, Mongodb, Echo, ASP.NET
 * Mobile - React Native
 
 ### Tools
